@@ -1,0 +1,11 @@
+name: ReaperSTAFFMODE
+version: 1.0
+author: Rainnny
+main: com.Rainnny.Reaper.StaffMode
+softdepend: [WorldEdit]
+commands:
+  staffmode:
+     aliases: [staff, mod, modmode, h]
+  vanish:
+     aliases: [v]
+  hidestaff:
